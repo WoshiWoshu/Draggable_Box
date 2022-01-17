@@ -1,4 +1,4 @@
-# DraggableBox
+# Draggable Box
 
 Simple draggable box built with React without using any third party library.
 
