@@ -2,7 +2,7 @@
 
 Simple draggable box built with React without using any third party library.
 
-The user can drag and hold the box to move it around.
+The user can drag and hold the box on the corner (top & bottom) to move it around.
 Releasing it changes its position.
 
 ### Set-up
