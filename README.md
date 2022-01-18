@@ -7,10 +7,10 @@ Releasing it changes its position.
 
 ### Set-up
 
-`npm install`
+- `npm install`
 
-`npm start`
+- `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![](preview.gif)
